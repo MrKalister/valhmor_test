@@ -1,0 +1,6 @@
+SupplierID,Name,MinPallets,MaxPallets,LeadTime (days)
+1,Supplier A,2,100,5
+2,Supplier B,6,200,7
+3,Supplier C,5,150,3
+4,Supplier D,4,100,6
+5,Supplier E,8,250,4
